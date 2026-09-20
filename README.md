@@ -1,7 +1,7 @@
 # Hi there, I'm WekoBear 👋
 
 <p align="left">
-  <strong>Design × AI × Open Source</strong> · Turning repeatable design, creator, and research workflows into practical tools and Agent Skills.
+  <strong>Design · AI · Agent Skills</strong> — open-source tools for work that repeats, built for people and for agents.
 </p>
 
 <p align="left">
@@ -18,59 +18,61 @@
 
 ### 👨‍💻 About Me
 
-I'm **WekoBear**. I turn repeatable design, creator, and research workflows into practical open-source tools and Agent Skills — things people and AI agents can pick up and keep improving.
+I'm **WekoBear**. I come from design and cross-border e-commerce, and I kept automating the same work until the automations became the work. Now I turn repeated design, creator, and commerce workflows into open-source Agent Skills — tools a person can pick up today, and an AI agent can run just as well.
 
-我把设计、内容创作和研究中的重复工作，做成可以直接使用、持续迭代的开源工具。
+设计和跨境电商出身。同一件事做过两遍，就忍不住把它做成工具 —— 设计、写作、审查、发布，慢慢都变成了开源 Skill：人能直接用，Agent 能直接跑。
 
-* 🧩 **Focus:** `AI agent workflows` · `Design systems` · `Local-first tools` · `Creator automation`
+* 🧭 **Focus:** `AI agent workflows` · `Design systems` · `Local-first tools` · `Creator automation`
+* 💡 **Belief:** any workflow done twice is a skill waiting to be written.
 * 📦 **Everything I build:** [github.com/wekobear?tab=repositories](https://github.com/wekobear?tab=repositories)
 
 ---
 
 ### 🚀 Featured Projects
 
-A few representative Agent Skills and tools I've designed and engineered:
+Skills and tools I've designed and built — each one born from work I refused to repeat:
 
 * 😂 **[Daily Jokes](https://github.com/wekobear/daily-jokes)**  
-  A configurable Agent Skill that creates five structurally different short jokes, with optional current-trend research and comic generation.
+  An Agent Skill with a funny bone: five structurally different jokes a day — puns, misdirection, absurdity — with optional trend research and comic generation. Turns out humor is a workflow too.
 
 * 🧹 **[Kill Skill — WekoBear](https://github.com/wekobear/kill-skill-wekobear)**  
-  A visual triage workflow for auditing, keeping, archiving, and migrating Agent capabilities across different coding assistants.
+  A visual triage workflow for a growing skill pile: keep what earns its place, archive the rest, and migrate capabilities across Claude Code, Codex, Cursor, and friends.
 
 * 🔍 **[Independent Site Inspector](https://github.com/wekobear/independent-SiteInspector-skill)**  
-  A reusable audit Skill for finding evidence-backed conversion problems across DTC, Shopify, and independent commerce sites.
+  A reusable audit skill that reads DTC, Shopify, and independent storefronts like a seasoned CRO consultant — every finding evidence-backed, nothing on vibes.
 
 ---
 
 ### 🧰 Open-source Toolkit
 
-Working tools and local-first systems I maintain and study — the original maintainers are linked in each repository:
+Local-first systems and working tools I maintain and study — the original maintainers are credited in each repo:
 
 * 🎨 **[Reicon](https://github.com/wekobear/reicon)**  
-  An open-source icon library for designers and developers.
+  An open-source icon library for designers and developers — clean marks for daily work.
 
 * 🖥️ **[Open Design](https://github.com/wekobear/open-design)**  
-  A local-first design workbench that turns coding agents into a practical design engine.
+  A local-first design workbench that turns coding agents into the design engine — prototypes, landing pages, slides, exported as real files.
 
 * 💬 **[WeChat Intelligence Hub](https://github.com/wekobear/wechat-intelligence-hub)**  
-  A local-first system for searchable chat history, briefings, follow-ups, and opportunity tracking.
+  Your WeChat history, finally queryable — local-first search, daily briefings, follow-ups, and opportunity tracking.
 
 * ✍️ **[WeChat Publisher](https://github.com/wekobear/wechat-publisher)**  
-  A workflow for turning Markdown and source material into reviewable WeChat Official Account drafts.
+  Markdown in, reviewable Official Account draft out — a publishing pipeline that keeps humans in the editor's seat.
 
 ---
 
 ### 🛠️ Tech & Craft
 
 ```
-Design & Systems     │  Design Systems · Icon Design · Interaction Design · Visual Craft
-Product & Workflow   │  Agent Skills · Workflow Automation · Conversion Audits · Creator Tooling
-Stack & Runtime      │  TypeScript · JavaScript · Python · Next.js · Node.js · SQLite · Local-first Tooling
-AI & Agent Tooling   │  Context Engineering · Agent Skills · Claude Code · Codex · Multi-agent Workflows
+Design & Craft       │  Design Systems · Icon Design · Interaction Design · Visual Detail
+Commerce & Growth    │  DTC · Shopify · Conversion Audits · Evidence-based CRO
+Product & Workflow   │  Agent Skills · Workflow Automation · Creator Tooling · Local-first Apps
+Stack & Runtime      │  TypeScript · JavaScript · Python · Next.js · Node.js · SQLite
+AI & Agents          │  Context Engineering · Skill Design · Claude Code · Codex · Multi-agent Workflows
 ```
 
 ---
 
 <p align="center">
-  <sub>Designed & built by WekoBear · For a project-specific question or idea, open an issue in the <a href="https://github.com/wekobear?tab=repositories">matching repository</a>.</sub>
+  <sub>Built by WekoBear · Spot something to improve? Open an issue in the matching repo — or fork it and make it yours.</sub>
 </p>
